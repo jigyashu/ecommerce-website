@@ -34,7 +34,7 @@ and open the template in the editor.
                 <div class="row row_style text-center">
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://shop.usa.canon.com/wcsstore/ExtendedSitesCatalogAssetStore/eos-rebel-t6-ef-s-18-55mm-f-3-5-5-6-is-ii-kit_1_l.jpg" alt="cannon eos" class="img-responsive set">
+                            <img src="includes/images/2.jpg" alt="cannon eos" class="img-responsive set">
                             <caption>
                                 <h3>Cannon Eos</h3>
                                 <p>Price:Rs.36000.00</p>
@@ -52,7 +52,7 @@ and open the template in the editor.
                     </div>
                         <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://images-na.ssl-images-amazon.com/images/I/41eWDX7-hUL.jpg" alt="sony dslr white" class="img-responsive set">
+                            <img src="includes/images/3.jpg" alt="sony dslr white" class="img-responsive set">
                             <caption>
                                 <h3>Sony Dslr</h3>
                                 <p>Price:Rs.40000.00</p>
@@ -70,7 +70,7 @@ and open the template in the editor.
                         </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://petapixel.com/assets/uploads/2013/08/sonyalpha3000_1.jpg" alt="sony dslr black" class="img-responsive set">
+                            <img src="includes/images/4.jpg" alt="sony dslr black" class="img-responsive set">
                             <caption>
                                 <h3>Sony Dslr</h3>
                                 <p>Price:Rs.50000.00</p>
@@ -91,7 +91,7 @@ and open the template in the editor.
              
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://img.newatlas.com/olympus-omd-em1.jpg?auto=format%2Ccompress&fit=max&h=670&q=60&w=1000&s=6906c1d4d1862f83e1b3d46779e20e05" alt="olympus dslr" class="img-responsive set">
+                            <img src="includes/images/5.jpg" alt="olympus dslr" class="img-responsive set">
                             <caption>
                                 <h3>Olympus Dslr</h3>
                                 <p>Price:Rs.80000.00</p>
@@ -112,7 +112,7 @@ and open the template in the editor.
                 <div class="row row_style text-center">
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="http://www.mrbluewhiter.com/wp-content/uploads/2013/12/flannel-shirt-blue.jpg" alt="H&W" class="img-responsive set">
+                            <img src="includes/images/6.jpg" alt="H&W" class="img-responsive set">
                             <caption>
                                 <h3>H&W</h3>
                                 <p>Price:Rs.800.00</p>
@@ -130,7 +130,7 @@ and open the template in the editor.
                     </div>
                         <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="http://ecx.images-amazon.com/images/I/41JZEfIOZ3L._AC_UL260_SR200,260_.jpg" alt="Luis Phil" class="img-responsive set">
+                            <img src="includes/images/7.jpg" alt="Luis Phil" class="img-responsive set">
                             <caption>
                                 <h3>Luis Phil</h3>
                                 <p>Price:Rs.1000.00</p>
@@ -148,7 +148,7 @@ and open the template in the editor.
                         </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://s-media-cache-ak0.pinimg.com/originals/e2/ff/c5/e2ffc5dcf6e93cebc18d5a9776137a5c.jpg" alt="John Zok" class="img-responsive set">
+                            <img src="includes/images/8.jpg" alt="John Zok" class="img-responsive set">
                             <caption>
                                 <h3>John Zok</h3>
                                 <p>Price:Rs.1500.00</p>
@@ -168,7 +168,7 @@ and open the template in the editor.
              
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://www.erasfashion.com/wp-content/uploads/2015/12/Mens-Shirts-004.jpg" alt="Jhalsani" class="img-responsive set">
+                            <img src="includes/images/9.jpg" alt="Jhalsani" class="img-responsive set">
                             <caption>
                                 <h3>Jhalsani</h3>
                                 <p>Price:Rs.1300.00</p>
@@ -188,7 +188,7 @@ and open the template in the editor.
                 <div class="row row_style text-center">
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://n4.sdlcdn.com/imgs/a/t/b/Titan-Orion-Men-s-Watches-SDL706141619-1-dbacb.jpg" alt="titan model 301" class="img-responsive set">
+                            <img src="includes/images/10.jpg" alt="titan model 301" class="img-responsive set">
                             <caption>
                                 <h3>Titan model#301</h3>
                                 <p>Price:Rs.13000.00</p>
@@ -206,7 +206,7 @@ and open the template in the editor.
                     </div>
                         <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://n4.sdlcdn.com/imgs/a/j/0/Titan-Octane-9308BM01-Men-s-SDL707100046-2-5ddb8.jpg" alt="titan model 201" class="img-responsive set">
+                            <img src="includes/images/11.jpg" alt="titan model 201" class="img-responsive set">
                             <caption>
                                 <h3>Titan model#201</h3>
                                 <p>Price:Rs.3000.00</p>
@@ -223,7 +223,7 @@ and open the template in the editor.
                         </div>
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="https://watchpriceindia.com/uploads/watches/small/watch-hmt-154.jpeg" alt="hmt milan" class="img-responsive set">
+                            <img src="includes/images/12.jpg" alt="hmt milan" class="img-responsive set">
                             <caption>
                                 <h3>Hmt Milan</h3>
                                 <p>Price:Rs.8000.00</p>
@@ -242,7 +242,7 @@ and open the template in the editor.
              
                     <div class="col-sm-6 col-md-3">
                         <div class="thumbnail">
-                            <img src="http://thumbs4.ebaystatic.com/d/l225/m/mHoUT20hYCtP4QC-TTQPsRw.jpg" alt="faber luba 111" class="img-responsive set">
+                            <img src="includes/images/13.jpg" alt="faber luba 111" class="img-responsive set">
                             <caption>
                                 <h3>Faber Luba #111</h3>
                                 <p>Price:Rs.18000.00</p>

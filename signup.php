@@ -50,9 +50,9 @@ and open the template in the editor.
                             <input type="password" class="form-control" name="password" placeholder="Password" id="password" pattern="(?=^.{8,}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$" required = "true">
 
                         <div><?php
-                        //error_reporting(0);
-                        //echo $_GET['passworderror'];
-                        //error_reporting(0);?></div>
+                        error_reporting(0);
+                        echo $_GET['passworderror'];
+                        error_reporting(0);?></div>
 </div>
                           <div class="form-group">
                             <input type="tel" class="form-control" name="contact" placeholder="Contact" id="contact">

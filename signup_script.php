@@ -1,17 +1,17 @@
 <?php
 require "includes/common.php";
 $email=mysqli_real_escape_string($con,$_POST['email']);
-//$cemail="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$";
-//if(preg_match($cemail,$email))
-//{
-//header('location: signup.php?emailerror=enter correct email');
-//}
+$cemail="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$";
+if(preg_match($cemail,$email))
+{
+header('location: signup.php?emailerror=enter correct email');
+}
 $password=mysqli_real_escape_string($con,$_POST['password']);
-//$cpassword="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$";
-//if(!preg_match($cpassword,$password))
-//{
-//header('location: signup.php?passworderror=enter correct password');
-//}
+$cpassword="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s).*$";
+if(!preg_match($cpassword,$password))
+{
+header('location: signup.php?passworderror=enter correct password');
+}
 $name=$_POST['name'];
 $contact=$_POST['contact'];
 $city=mysqli_real_escape_string($con,$_POST['city']);
